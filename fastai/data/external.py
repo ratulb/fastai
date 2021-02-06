@@ -58,10 +58,9 @@ class Config:
 # Cell
 class URLs():
     "Global constants for dataset and model URLs."
-    print("Ratul Buragohain1")
-    print("Ratul Buragohain1")
-    print("Ratul Buragohain1")
-    print("Ratul Buragohain1")
+    print("fastai/data/external.py - class URLs - Ratul Buragohain")
+    print("fastai/data/external.py - class URLs - Ratul Buragohain")
+    print("fastai/data/external.py - class URLs - Ratul Buragohain")
     LOCAL_PATH = Path.cwd()
     MDL = 'http://files.fast.ai/models/'
     S3  = 'https://s3.amazonaws.com/fast-ai-'
